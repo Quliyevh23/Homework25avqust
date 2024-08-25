@@ -1,0 +1,14 @@
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\bin\Debug\net6.0\Homework25avqust.exe
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\bin\Debug\net6.0\Homework25avqust.deps.json
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\bin\Debug\net6.0\Homework25avqust.runtimeconfig.json
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\bin\Debug\net6.0\Homework25avqust.dll
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\bin\Debug\net6.0\Homework25avqust.pdb
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.AssemblyInfoInputs.cache
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.AssemblyInfo.cs
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.csproj.CoreCompileInputs.cache
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.dll
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\refint\Homework25avqust.dll
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.pdb
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\Homework25avqust.genruntimeconfig.cache
+C:\Users\quliy\source\repos\Homework25avqust\Homework25avqust\obj\Debug\net6.0\ref\Homework25avqust.dll
